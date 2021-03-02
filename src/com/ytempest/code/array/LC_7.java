@@ -14,7 +14,7 @@ import java.util.Arrays;
  * 输出：[1,2,4]
  * 解释：输入数组表示数字 123。
  */
-class LC_6 {
+class LC_7 {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(plusOne(new int[]{9, 9})));
         System.out.println(Arrays.toString(plusOne(new int[]{1, 4})));
